@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
-    <h1>Website is under construction</h1>
+  <div class="underConstruction_container">
+    <h1 class="title">Website is under construction</h1>
   </div>
 </template>
